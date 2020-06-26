@@ -1,0 +1,20 @@
+{
+  "name": "initializejson",
+  "version": "1.0.0",
+  "description": "this is just a test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaSharma911/initializejson.git"
+  },
+  "author": "Aditya Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaSharma911/initializejson/issues"
+  },
+  "homepage": "https://github.com/AdityaSharma911/initializejson#readme",
+  "keywords": []
+}
